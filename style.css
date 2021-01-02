@@ -1,0 +1,31 @@
+
+img {
+    width: 100%;
+    max-height: 350px;
+}
+.image{
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+}
+.parr p{
+    text-align:justify;
+}
+.imgg img{
+    position: relative;
+}
+.imgg .hedder{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.button {
+    border-radius: 27px;
+    border: none;
+    background-color: gainsboro;
+    display: inline-block;
+    padding: 3px 13px;
+    margin: 5px;
+    font-weight: bold;
+}
